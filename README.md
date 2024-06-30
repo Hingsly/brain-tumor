@@ -1,2 +1,1 @@
-# brain-tumor
-AI Project
+# Advance_Brain_Tumor_Classification
